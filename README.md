@@ -1,4 +1,8 @@
-# theme
+# Overview
+
+This is a scafolding template built from vuestorefront
+
+## Theme 
 
 > My breathtaking Nuxt.js project
 
